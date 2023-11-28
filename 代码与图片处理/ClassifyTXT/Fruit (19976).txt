@@ -1,0 +1,5 @@
+0.96 Apple
+0.04 Pear
+0.00 Plum
+0.00 Carambola
+0.00 Tomatoes
